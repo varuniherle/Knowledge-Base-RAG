@@ -1,0 +1,6 @@
+env/
+.env
+test.py
+./chroma_store
+agent.ipynb
+.gitignore
